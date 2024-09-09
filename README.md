@@ -1,6 +1,8 @@
 # AI Image Generator with Stable Diffusion
 
 This project is a web application that generates images from textual prompts using the Stable Diffusion model. The app is designed to run on Google Colab, leveraging GPU support for efficient image generation. It provides an easy-to-use interface for users to input prompts and visualize AI-generated images in real-time.
+![AI Image Generator UI](AI-Image-Generator/AI%20Image%20Generator%20UI.png)
+
 
 ## Features
 
